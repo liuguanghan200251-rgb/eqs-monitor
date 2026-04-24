@@ -14,7 +14,7 @@ from deep_translator import GoogleTranslator
 from bs4 import BeautifulSoup
 import winsound
 
-VERSION = "1.0"
+VERSION = "1.1"
 GITHUB_RAW = "https://raw.githubusercontent.com/liuguanghan200251-rgb/eqs-monitor/main/eqs_monitor.py"
 GITHUB_VERSION_URL = "https://raw.githubusercontent.com/liuguanghan200251-rgb/eqs-monitor/main/version.txt"
 
