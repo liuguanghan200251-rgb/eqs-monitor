@@ -1,1 +1,1 @@
-worker: python eqs_cloud_3.py
+worker: python eqs_cloud_4.py
